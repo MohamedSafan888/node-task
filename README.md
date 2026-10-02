@@ -1,3 +1,3 @@
 # node-task
-# run backend first ==> run seed
-# run front ==> get start
+# run backend first ==>npm run seed
+# run front ==> npm run dev
